@@ -1,2 +1,2 @@
 # Porject-AimNot
-Yes
+An (Probably deprecated) Universal Aimbot project used on roblox.com
